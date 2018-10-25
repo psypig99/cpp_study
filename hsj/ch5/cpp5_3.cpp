@@ -17,4 +17,4 @@ int main(){
     int *p = &refn;
     *p = 20;
     cout << i << '\t' << n << '\t' << refn << endl;
-}
+} 

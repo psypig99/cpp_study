@@ -18,5 +18,4 @@ int main(){
     int array[5] = {1, 9, -2, 8, 6};
     cout << big(2,3) << endl;
     cout << big(array, 5) << endl;
-
 }
