@@ -1,9 +1,9 @@
 #include<iostream>
 
 int main() {
-	std::cout << "À§Áîºí" << std::endl;
-	std::cout << "29¼¼" << std::endl;
-	std::cout << "°í±Ş°³¹ßÀÚ" << std::endl;
+	std::cout << "ìœ„ì¦ˆë¸”" << std::endl;
+	std::cout << "29ì„¸" << std::endl;
+	std::cout << "ê³ ê¸‰ê°œë°œì" << std::endl;
 	system("pause");
 	return 0;
 }
